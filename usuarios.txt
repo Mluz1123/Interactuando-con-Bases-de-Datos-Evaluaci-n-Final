@@ -1,0 +1,15 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+NOMBRE       FECHA NACIMIENTO    CORREO	          CONTRASEÑA
+
+Luz----------1989/11/11----------luz@gmail.com-----123456
+
+Rosa---------1995/07/05----------roza@gmail.com----123456
+
+Martha-------1968/03/03----------martha@gmail.com--123456
+
+
+CORREO	    CONTRASEÑA
+
+|cjcs@dominio.com|123456
